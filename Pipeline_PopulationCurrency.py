@@ -162,7 +162,7 @@ if __name__ == "__main__":
 
     # Prepare key and URL for API exchange rate Client
 
-    # Load environment variables from .env file
+    # Load environment variables from .env file (this most be added to the current directory)
     load_dotenv()
 
     # Get the API key
