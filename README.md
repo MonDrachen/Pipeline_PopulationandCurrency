@@ -1,8 +1,8 @@
-# Global Population and COnversion Currency Pipeline
+# Global Population and Conversion Currency Pipeline
 
 Global Population and Currency Conversion Data Pipeline
 
-Description:
+**Description:**
 This project involved building a robust data pipeline in Python to handle and analyze global population data using APIs from the World Bank and a currency exchange service. The pipeline was designed to extract, process, and calculate potential currency accumulations from a hypothetical scenario (receiving one cent of the local coin from every people of the analyzed countries).
 
 Key Features:
